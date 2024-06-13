@@ -1,0 +1,15 @@
+.display{
+    display:flex;
+    border-style:solid;
+}
+.operator{
+    background-color: orange;
+}
+.equals{
+    background-color: orange;
+}
+.button{
+    display:flex;
+    width: 500px;
+    height: 400px;
+}
